@@ -1,7 +1,7 @@
 import voyageai
 import numpy as np
 
-key = "pa-LD-Mav8p4jQPYO7QzG8d6C_LvfgQ9T2wy0neCqRNCKu"
+key = ""
 vo = voyageai.Client(api_key = key)
 
 documents = [
